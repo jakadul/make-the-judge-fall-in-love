@@ -7,6 +7,11 @@ import os
 import sys
 from pathlib import Path
 
+COMMENT = (
+    "A man keeps paying a dead phone bill because an eleven-second voicemail is "
+    "the only room she still occupies."
+)
+
 LINE = (
     "The voicemail is eleven seconds: her breathing, a dog barking, her saying "
     "nothing. Four years. It is the only room she is still in, and I pay the "
